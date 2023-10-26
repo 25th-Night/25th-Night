@@ -62,7 +62,7 @@ Wanna be a good Developer 🏳‍🌈
   <a href="https://notion.so/7fb452e52ba347fa961128a0cb3f5413">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
-  <a href="mailto:browneyed@gmail.com">
+  <a href="mailto:browneyed.sw@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=browneyed.sw@gmail.com"/>
   </a>
 </div>
