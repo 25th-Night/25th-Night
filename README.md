@@ -73,7 +73,7 @@ Wanna be a good Developer 🏳‍🌈
     <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=25th-Night&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" />
   </a>
   <a href="https://github.com/25th-Night">
-    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=25th-Night&title_color=7DC19A&layout=compact&langs_count=6&card_width=370" />
+    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=25th-Night&title_color=7DC19A&layout=compact&card_width=400" />
   </a>
 </div>
 
