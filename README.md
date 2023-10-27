@@ -28,11 +28,11 @@ Wanna be a good Developer 🏳‍🌈
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47a24b?style=flat-square&logo=mongodb&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Channels-46A45E?style=flat-square&logo=channels&logoColor=white" />
   <img src="https://img.shields.io/badge/Flower-37814A?style=flat-square&logo=Flower&logoColor=white" />
   <br>
